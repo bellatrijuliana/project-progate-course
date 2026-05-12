@@ -1,6 +1,6 @@
 # 🌐 Progate Landing Page Clone
 
-A recreation of the **Progate** homepage — an online coding learning platform — built with pure HTML & CSS. This is my very first web development project.
+A recreation of the **Progate** homepage, an online coding learning platform, built with pure HTML & CSS. This is my very first web development project.
 
 ---
 
@@ -12,12 +12,12 @@ A recreation of the **Progate** homepage — an online coding learning platform 
 
 ## Features
 
-- **Fixed Navigation Bar** — transparent header that stays on top while scrolling
-- **Hero Section** — full background image with headline text and sign-up buttons
-- **Lesson Cards** — 4-column grid showcasing available courses (HTML & CSS, jQuery, Ruby, PHP)
-- **Responsive Layout** — mobile-friendly with hamburger menu icon
-- **Hover Animations** — smooth transitions on buttons and navigation links
-- **CSS Button States** — "Start Learning" button with press effect using box-shadow
+- **Fixed Navigation Bar** : transparent header that stays on top while scrolling
+- **Hero Section** : full background image with headline text and sign-up buttons
+- **Lesson Cards** : 4-column grid showcasing available courses (HTML & CSS, jQuery, Ruby, PHP)
+- **Responsive Layout** : mobile-friendly with hamburger menu icon
+- **Hover Animations** : smooth transitions on buttons and navigation links
+- **CSS Button States** : "Start Learning" button with press effect using box-shadow
 
 ---
 
